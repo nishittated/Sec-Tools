@@ -4,7 +4,7 @@
 
 Download from here: https://github.com/nishittated/Sec-Tools
 
-# Developed By: Nishit Tated
+# Developed By: Nishit Tated, Varun Thukral, Farhan Hussain, Karan Solanki, Samya Shah, Durva Purani, Shrushti Patel 
 
 # Find this project useful? ❤️
 * Support it by clicking the ⭐️ button on the upper right of this page. ✌️
