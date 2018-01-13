@@ -27,6 +27,9 @@
 * Cloud Hosting
 * Automations and Test Staging.
 
+# Web Server: XAMPP
+# Database: MySQL
+
 # Developed By: Nishit Tated, Varun Thukral, Farhan Hussain, Karan Solanki, Samya Shah, Durva Purani, Shrushti Patel 
 
 # Find this project useful? ❤️
