@@ -5,7 +5,7 @@
 	$stmt->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		}catch(PDOException $e){
 			echo $e->getMessage();
-			
+			 
 		}
 if ($_SERVER["REQUEST_METHOD"] === "POST"){
 
