@@ -1,5 +1,5 @@
 <html>
-<?php
+<?php 
 	try{            
 	$stmt =  new PDO("mysql:host=localhost;dbname=nits", "root", "");
 	$stmt->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
