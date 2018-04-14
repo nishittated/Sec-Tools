@@ -1,7 +1,7 @@
 <html>
 <?php
 
-if ($_SERVER["REQUEST_METHOD"] === "POST"){
+if ($_SERVER["REQUEST_METHOD"] === "POST"){ 
 
 	$Pword = trim(isset($_POST['word']) ? strtolower($_POST['word']) : null );
 	$md = urlencode(strtolower($Pword));	
