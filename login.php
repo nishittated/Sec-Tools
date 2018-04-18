@@ -31,7 +31,7 @@ $con = new PDO('mysql:host=localhost;dbname=nits',$username,$password);
 				
 				$result = $con -> prepare("SELECT * FROM login WHERE Username='" .$username . "' AND Password='".$password ."'");
 				$result ->execute();
-				$result = $result -> fetchAll(PDO::FETCH_ASSOC);
+				$result = $result -> fetchAll(PDO::FETCH_ASSOC); 
 				
 				
 				if($result ){
