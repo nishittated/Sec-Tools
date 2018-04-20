@@ -22,7 +22,7 @@ body {
 .logo h1 {
     color: #000;
     font-size: 90px;
-    text-shadow: #202020 1px 1px 0px;
+    text-shadow: #202020 1px 1px 0px; 
 }
 .title {
     text-align: center;
