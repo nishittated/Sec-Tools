@@ -7,7 +7,7 @@ $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, 'https://www.virustotal.com/vtapi/v2/url/scan');
 curl_setopt($ch, CURLOPT_POST, True);
 curl_setopt($ch, CURLOPT_VERBOSE, 1); // remove this if your not debugging
-curl_setopt($ch, CURLOPT_RETURNTRANSFER ,True);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER ,True); 
 curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
  
 $result=curl_exec ($ch);
