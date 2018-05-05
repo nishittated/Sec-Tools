@@ -1,6 +1,6 @@
 <head>
 	<head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"> 
     <!--IE Compatibility modes-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--Mobile first--> 
