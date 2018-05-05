@@ -1,21 +1,11 @@
-/**
- * bootstrap-admin-template - Free Admin Template Based On Twitter Bootstrap 3.x
- * @version 2.4.2
- * @license MIT
- * @link https://github.com/puikinsh/Bootstrap-Admin-Template
- */
-/* ==========================================================================
-metisAdmin: Base
-========================================================================== */
+/* metisAdmin: Base*/
 body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
-/*********************************************************/
+
 /*                 Layout Styles                         */
 /*********************************************************/
-/* ==========================================================================
-   Sticky footer styles
-   ========================================================================== */
+/*Sticky footer styles */
 html {
   position: relative;
   min-height: 100%;
@@ -32,11 +22,9 @@ body {
   /* Set the fixed height of the footer here */
   height: 48px;
 }
-/* END Sticky footer styles
-   ========================================================================== */
-/*********************************************************/
-/*                 Template Layout                       */
-/*********************************************************/
+/* END Sticky footer styles 
+    Template Layout                       
+*/
 #wrap:before,
 #top:before,
 .head:before,
