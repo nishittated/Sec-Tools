@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="assets/css/main.css">
     
     <!-- metisMenu stylesheet -->
-    <link rel="stylesheet" href="assets/lib/metismenu/metisMenu.css">
+    <link rel="stylesheet" href="assets/lib/metismenu/metisMenu.css"> 
     
     <!-- onoffcanvas stylesheet -->
     <link rel="stylesheet" href="assets/lib/onoffcanvas/onoffcanvas.css">
