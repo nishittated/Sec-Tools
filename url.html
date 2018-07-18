@@ -1,7 +1,7 @@
 											<?php
 $virustotal_api_key = '96435cf419fc303b376de13a4c0c885c7bc7760c6dc24f82c6fdeadaa95456b9';
 $scan_url = 'www.google.com';
- 
+  
 $post = array('apikey' => $virustotal_api_key,'url'=> $scan_url);
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, 'https://www.virustotal.com/vtapi/v2/url/scan');
