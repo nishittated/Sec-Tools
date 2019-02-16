@@ -4,7 +4,7 @@
 	$stmt =  new PDO("mysql:host=localhost;dbname=nits", "root", "");
 	$stmt->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		}catch(PDOException $e){
-			echo $e->getMessage();
+			echo $e->getMessage(); 
 			 
 		}
 if ($_SERVER["REQUEST_METHOD"] === "POST"){
